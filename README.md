@@ -1,1 +1,1 @@
-# khushi-project-2-c10
+# C10-project-template
